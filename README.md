@@ -2,4 +2,4 @@
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning machine learning algorithms.
 - 📫 How to reach me: https://www.linkedin.com/in/marta-coll-043b0412b/
-- ⚡ Note: My current repos are imported from my previous github account (https://github.com/MartaCollPol)
+- ⚡ Note: Most of my current repos are imported from my previous github account (https://github.com/MartaCollPol)
