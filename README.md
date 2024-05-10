@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mcollpol
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning machine learning algorithms.
+- 🌱 My current projects are focused on ML & AI.
 - 📫 How to reach me: https://www.linkedin.com/in/marta-coll-043b0412b/
 - ⚡ Note: Most of my current repos are imported from my previous github account (https://github.com/MartaCollPol)
